@@ -1,0 +1,8 @@
+kivy
+base64
+io
+random
+math
+os
+struct
+wave
